@@ -27,7 +27,6 @@ public class javaguru_05_dz_5_pc_ugadajka_random {
         int b=100;
         int c;
         String answer;
-        int c1;
 
         do {
 
