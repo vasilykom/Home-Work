@@ -25,7 +25,6 @@ public class javaguru_05_dz_4_pc_tries_to_guess_your_number {
         int a=0;
         int b=100;
         int c;
-        int c1;
 
         do {
                 c = Math.abs((a + b) / 2);
