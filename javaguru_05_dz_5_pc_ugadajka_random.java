@@ -30,7 +30,7 @@ public class javaguru_05_dz_5_pc_ugadajka_random {
 
         do {
             Random numberGenerator = new Random();
-            int numberRandom = Math.abs(numberGenerator.nextInt((b - a)));
+            int numberRandom = numberGenerator.nextInt(b - a);
 
             Scanner scanner = new Scanner(System.in);
 
